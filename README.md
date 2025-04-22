@@ -51,3 +51,6 @@ To demonstrate the configuration and simulation of:
 Nabin Shrestha
 
 
+![image](https://github.com/user-attachments/assets/28ee0f12-d296-414c-8b5a-735c88e39dd1)
+
+
